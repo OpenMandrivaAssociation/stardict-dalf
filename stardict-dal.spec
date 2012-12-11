@@ -30,3 +30,10 @@ rm -rf %{buildroot}
 
 %files
 %{_datadir}/stardict/dic/%{dict_name}*
+
+
+%changelog
+* Fri Jul 22 2011 Yuri Myasoedov <omerta13@mandriva.org> 2.4.2-1mdv2012.0
++ Revision: 691012
+- Initial package import
+
