@@ -1,6 +1,6 @@
 %define dict_name 	dalf
 %define version 	2.4.2
-%define release 	1
+%define release 	2
 
 Name: 			stardict-%dict_name
 Version: 		%{version}
