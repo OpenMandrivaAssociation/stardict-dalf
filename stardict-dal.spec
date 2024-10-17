@@ -7,7 +7,7 @@ Version: 		%{version}
 Release: 		%mkrel %{release}
 Summary: 		Dal's Russian Dictionary
 License: 		GPLv2+
-URL:			http://xdxf.revdanica.com/down/index.php
+URL:			https://xdxf.revdanica.com/down/index.php
 Group: 			Text tools
 Source0: 		atla02_rus-rus_%dict_name.dict.dz
 Source1: 		atla02_rus-rus_%dict_name.idx
